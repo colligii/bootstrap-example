@@ -1,7 +1,7 @@
 # My first Bootstrap project.
 
 ### Screenshots
-![Screenshot of website example](https://github.com/colligii/bootstrap-example/bootstrap.png?raw=true)
+![Screenshot of website example](https://github.com/colligii/bootstrap-example/blob/main/bootstrap.png?raw=true)
 
 # About this Project
 
